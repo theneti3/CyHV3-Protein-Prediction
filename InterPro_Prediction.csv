@@ -1,0 +1,67 @@
+ID,Tool,Name,Description,Start,End,E-value,Score
+YP_001096147.1,,WH-like_DNA-bd_sf,Winged helix-like DNA-binding domain superfamily,219,280,4e-23,83.0
+YP_001096147.1,,Z_dom,Z-binding domain,223,277,0.0038,28.5
+YP_001096169.1,,4_helix_cytokine-like_core,"Four-helical cytokine-like, core",24,179,5.4e-19,70.2
+YP_001096169.1,,IL-10/19/20/24/26,Interleukin-10/19/20/24/26,19,133,0.00032,31.8
+YP_001096185.1,,Znf_RING,"Zinc finger, RING-type",24,65,1.9e-05,34.1
+YP_001096185.1,,Znf_RING/FYVE/PHD,"Zinc finger, RING/FYVE/PHD-type",1,87,9.7e-15,56.2
+YP_001096158.1,,dUTPase-like,dUTPase-like,21,146,2e-32,123.1
+YP_001096158.1,,dUTPase-like_sf,dUTPase-like superfamily,3,149,1.9e-49,169.0
+YP_001096158.1,,dUTPase_trimeric,"dUTPase, trimeric",30,119,3.19254e-26,96.7944
+YP_001096158.1,,dUTPase,Deoxyuridine triphosphate nucleotidohydrolase,11,146,4.4e-37,138.4
+YP_001096175.1,,Thymidylate_kinase,Thymidylate kinase,20,206,1.4e-30,117.9
+YP_001096175.1,,P-loop_NTPase,P-loop containing nucleoside triphosphate hydrolase,15,220,2.4e-65,222.0
+YP_001096175.1,,Thymidylate_kin-like_dom,Thymidylate kinase-like domain,26,206,1.3e-40,150.6
+YP_001096176.1,,ATP-cone_dom,ATP-cone domain,5,90,2e-08,46.0
+YP_001096176.1,,RNR_lsu_N,"Ribonucleotide reductase large subunit, N-terminal",145,214,1e-15,68.9
+YP_001096176.1,,RNR_lg_C,"Ribonucleotide reductase large subunit, C-terminal",218,752,0.0,690.8
+YP_001096176.1,,NrdE_NrdA_C,"Ribonucleotide reductase, class I, alpha subunit, C-terminal",147,756,0.0,690.4
+YP_001096174.1,,Poxvirus_B22R_C_dom,Poxvirus B22R protein C-terminal domain,1060,1258,8e-20,82.7
+YP_001096139.1,,Prot_kinase_dom,Protein kinase domain,345,629,2.9e-07,-31.7
+YP_001096139.1,,Prot_kinase_dom,Protein kinase domain,345,540,4.8e-08,44.3
+YP_001096163.1,,B30.2/SPRY_sf,B30.2/SPRY domain superfamily,263,450,4e-22,80.7
+YP_001096163.1,,SPRY_dom,SPRY domain,326,421,3.8e-05,35.2
+YP_001096163.1,,Znf-RING_euk,"Zinc finger, RING-type, eukaryotic",12,36,0.018,26.4
+YP_001096163.1,,Znf_RING/FYVE/PHD,"Zinc finger, RING/FYVE/PHD-type",1,77,1.7e-11,45.5
+YP_001096179.1,,Znf_RING,"Zinc finger, RING-type",106,148,4.5e-07,39.5
+YP_001096179.1,,Znf_RING/FYVE/PHD,"Zinc finger, RING/FYVE/PHD-type",90,173,3.3e-18,67.4
+YP_001096179.1,,Znf_C3HC4_RING-type,"Zinc finger, C3HC4 RING-type",106,148,1.4e-06,39.4
+YP_001096181.1,,Ig-like_fold,Immunoglobulin-like fold,44,133,1e-06,30.7
+YP_001096134.1,,S_torovirinae,Torovirinae spike protein,33,1370,0.0,1570.0
+YP_001096133.1,,Uracil-DNA_glycosylase-like_sf,Uracil-DNA glycosylase-like domain superfamily,106,320,4.4e-22,80.8
+YP_001096097.1,,OTU_dom,OTU domain,588,671,0.11,24.4
+YP_001096069.2,,P-loop_NTPase,P-loop containing nucleoside triphosphate hydrolase,91,380,1.1e-19,72.6
+YP_001096069.2,,DNA_pack_C,"Probable DNA packing protein, C-terminal",360,631,2.1e-16,71.6
+YP_001096069.2,,DNA_pack_N,"Probable DNA packing protein, N-terminal",119,316,0.00096,30.5
+YP_001096062.1,,RNR_small,Ribonucleotide reductase small subunit,24,300,8.58468e-116,334.979
+YP_001096062.1,,RNR-like,Ribonucleotide reductase-like,2,316,1.1e-113,381.3
+YP_001096062.1,,RNR_small_fam,Ribonucleotide reductase small subunit family,23,288,9.3e-100,345.2
+YP_001096107.1,,VG27-like,"ORF27-like, Herpesvirus 1",42,370,2.5e-88,307.8
+YP_001096058.1,,DNK_dom,Deoxynucleoside kinase domain,7,217,5.83135e-55,173.183
+YP_001096058.1,,DNK_dom,Deoxynucleoside kinase domain,9,233,3.8e-45,165.7
+YP_001096058.1,,DCK/DGK,Deoxynucleoside kinase,6,234,3.2e-54,182.0
+YP_001096058.1,,P-loop_NTPase,P-loop containing nucleoside triphosphate hydrolase,6,235,2.4e-62,212.7
+YP_001096067.1,,PLAC_motif_containing,PLAC8 motif-containing protein,27,112,1.6e-08,46.7
+YP_001096067.1,,PLAC_motif_containing,PLAC8 motif-containing protein,26,115,9e-07,40.9
+YP_001096099.1,,Eqnu_transpt,Equilibrative nucleoside transporter,441,716,0.0011,30.0
+YP_001096113.1,,ORF28_N,"ORF28, N-terminal domain",31,261,1.7e-59,212.5
+YP_001096051.1,,TNFR/NGFR_Cys_rich_reg,TNFR/NGFR cysteine-rich region,26,61,1.7e-05,34.2
+YP_001096051.1,,TNFR/NGFR_Cys_rich_reg,TNFR/NGFR cysteine-rich region,64,105,1.3e-05,34.6
+YP_001096051.1,,TNFR/NGFR_Cys_rich_reg,TNFR/NGFR cysteine-rich region,64,105,5.5e-05,34.8
+YP_001096089.1,,Znf_RING/FYVE/PHD,"Zinc finger, RING/FYVE/PHD-type",573,649,2.6e-05,25.6
+YP_001096129.2,,Trypsin_dom,"Serine proteases, trypsin domain",95,329,2.2e-20,85.0
+YP_001096129.2,,Trypsin_dom,"Serine proteases, trypsin domain",83,330,6.3e-19,78.9
+YP_001096114.1,,DNA-dir_DNA_pol_B_multi_dom,"DNA-directed DNA polymerase, family B, multifunctional domain",684,886,8.2e-18,76.0
+YP_001096114.1,,RNaseH_sf,Ribonuclease H superfamily,249,626,5.5e-09,37.8
+YP_001096114.1,,DNA_pol_palm_dom_sf,"DNA polymerase, palm domain superfamily",673,1009,1.2e-17,66.2
+YP_001096114.1,,DNA-dir_DNA_pol_B,"DNA-directed DNA polymerase, family B",248,884,3.2e-26,103.1
+YP_001096076.1,,Znf_RING/FYVE/PHD,"Zinc finger, RING/FYVE/PHD-type",5,95,7.2e-18,66.3
+YP_001096076.1,,Znf_RING,"Zinc finger, RING-type",27,69,9.6e-05,33.4
+YP_001096076.1,,Znf_RING,"Zinc finger, RING-type",28,69,4.7e-05,32.8
+YP_001096090.1,,P-loop_NTPase,P-loop containing nucleoside triphosphate hydrolase,2,134,7.2e-40,138.0
+YP_001096090.1,,Thymidine_kinase,Thymidine kinase,3,174,1.1e-46,170.4
+YP_001096090.1,,Thymidine_kinase,Thymidine kinase,1,179,2e-61,204.7
+YP_001096092.1,,DUF5662,Family of unknown function DUF5662,86,257,2.4e-31,119.9
+YP_005352786.1,,Ig-like_fold,Immunoglobulin-like fold,29,156,4.1e-09,38.5
+YP_005352786.1,,Ig_sub,Immunoglobulin domain subtype,29,123,1.1e-05,34.9
+YP_001096106.1,,P-loop_NTPase,P-loop containing nucleoside triphosphate hydrolase,132,341,6.5e-12,47.2
